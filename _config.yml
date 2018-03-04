@@ -4,7 +4,7 @@
 
 # Site
 title: qiuxx404's blog
-subtitle:
+subtitle: 把自己当成智力低下的人，让自己比别人更努力！
 description:
 author: qiuxx404
 language:
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: indigo
+theme: BlueLake
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
