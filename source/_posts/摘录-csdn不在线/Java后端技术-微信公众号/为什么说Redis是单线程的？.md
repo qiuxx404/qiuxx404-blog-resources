@@ -89,3 +89,7 @@ ps命令的“-T”参数表示显示线程（Show threads, possibly with SPID c
 （3）Master进程主要进行一些全局性的初始化工作和管理Worker的工作；事件处理是在Worker中进行的。
 
 ![](http://p4rffk0h4.bkt.clouddn.com/20180312_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4Redis%E6%98%AF%E5%8D%95%E7%BA%BF%E7%A8%8B%E7%9A%846_worker%E8%BF%9B%E7%A8%8B.jpg)
+
+
+----------
+原文地址：http://mp.weixin.qq.com/s/zM5OSHV7a2-0exslEPkWYg
