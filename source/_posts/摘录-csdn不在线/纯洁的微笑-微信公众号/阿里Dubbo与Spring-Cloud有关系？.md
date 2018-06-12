@@ -1,7 +1,7 @@
 ---
 title: 阿里Dubbo与Spring Cloud有关系？
 date: 2018-03-04 23:15:21
-category: 摘录-框架
+category: 框架
 tags: [Dubbo,Spring Cloud]
 ---
 

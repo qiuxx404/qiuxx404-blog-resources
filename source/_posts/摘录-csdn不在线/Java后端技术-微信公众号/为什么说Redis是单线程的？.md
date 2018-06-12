@@ -1,7 +1,7 @@
 ---
 title: 为什么说Redis是单线程的？
 date: 2018-03-12 22:34:05
-category: 摘录-缓存
+category: 缓存
 tags: [redis,缓存]
 ---
 
